@@ -1,6 +1,7 @@
 using UnityEngine;
 
-namespace virtualcinematiclighting
+namespace Series
+{
     /**
      * AI-Driven Virtual Cinematography Logic
      * Entry point for Unity-based rendering pipeline.
